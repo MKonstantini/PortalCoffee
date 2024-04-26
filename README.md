@@ -1,4 +1,4 @@
 # Portal Coffee
 
-Get your coffe via portal.
+Get your coffee via portal.
 The new technology to get your coffe from home, hot and ready.
