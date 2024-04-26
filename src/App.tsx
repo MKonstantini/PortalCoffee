@@ -5,9 +5,11 @@ import './styles/App.scss'
 function App() {
 
   return (
-    <>
-      <h1 className='display-1'>Portal Coffee</h1>
-    </>
+    <div className='text-center'>
+      <h1>Portal Coffee</h1>
+      <p>hi</p>
+      <h1>yo</h1>
+    </div>
   )
 }
 

@@ -1,6 +1,20 @@
+// External
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css";
 @import 'bootstrap/dist/css/bootstrap.min.css';
-@import './pageHome';
 
-h2 {
-    color: blue;
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+
+// SASS
+@import './pageHome';
+@import './variables';
+
+
+h1 {
+    font-family: 'Bebas Neue';
+}
+
+p {
+    font-family: 'Dosis';
 }
