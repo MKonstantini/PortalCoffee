@@ -5,10 +5,9 @@ import './styles/App.scss'
 function App() {
 
   return (
-    <div className='text-center'>
-      <h1>Portal Coffee</h1>
-      <p>hi</p>
-      <h1>yo</h1>
+    <div className='text-center mt-5'>
+      <img src="/Logo.svg" alt="logo" style={{ width: 500 }} />
+      <div className='backback'></div>
     </div>
   )
 }
